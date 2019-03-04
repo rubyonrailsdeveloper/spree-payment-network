@@ -16,7 +16,3 @@ It also makes sense to enable `Automatic redirection`. Afterwards go to `Extende
 
 Now create a new payment method in Spree and choose `PaymentMethod::PaymentNetwork` as the provider. Insert the project password you generated and fill in your customer number and project number. That's all.
 
-
-License
--------
-Copyright (c) 2011 Fabian Schwahn, released under the New BSD License
